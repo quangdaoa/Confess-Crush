@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
+    titleWeb: "Sinh nhật của mụt con lợn",
     introTitle: 'gửi đến lợn lười biếng của anh',
     introDesc: `chúc mừng sinh nhật của Tũn nhóoo`,
     btnIntro: '^^HiHi^^',
